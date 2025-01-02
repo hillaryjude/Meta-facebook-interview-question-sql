@@ -30,6 +30,7 @@ The dataset includes two tables:
   );
 
 - **Fb_active_users(**
+  ```sql
     User_id int,
     Name varchar,
     Status varchar,
