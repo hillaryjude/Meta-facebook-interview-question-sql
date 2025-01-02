@@ -23,13 +23,12 @@ The dataset includes two tables:
 
 - **Fb_comments_count**
   ```sql
-  Fb_comments_count(
       User_id int,
       Created_at datetime,
       Number_of_comments int
-  );
+ 
 
-- **Fb_active_users(**
+- **Fb_active_users**
   ```sql
     User_id int,
     Name varchar,
