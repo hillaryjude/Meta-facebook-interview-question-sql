@@ -35,4 +35,3 @@ The dataset includes two tables:
     Name varchar,
     Status varchar,
     Country varchar
-);
